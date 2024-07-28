@@ -1,0 +1,39 @@
+{
+    "sales": [
+        {
+            "sale_id": 11,
+            "product_id": 2,
+            "amount": 1
+        },
+        {
+            "sale_id": 12,
+            "product_id": 3,
+            "amount": 2
+        },
+        {
+            "sale_id": 13,
+            "product_id": 5,
+            "amount": 20
+        },
+        {
+            "sale_id": 14,
+            "product_id": 1,
+            "amount": 1
+        },
+        {
+            "sale_id": 15,
+            "product_id": 4,
+            "amount": 2
+        },
+        {
+            "sale_id": 16,
+            "product_id": 4,
+            "amount": 6
+        },
+        {
+            "sale_id": 17,
+            "product_id": 2,
+            "amount": 1
+        }
+    ]
+}
